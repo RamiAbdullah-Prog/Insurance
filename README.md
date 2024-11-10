@@ -72,8 +72,8 @@ This dataset provides a foundation for analyzing the relationships between custo
 
 ### **Required Libraries:**
 
-- pandas: For data manipulation and analysis.
-- matplotlib: For data visualization.
-- seaborn: For statistical data visualization to explore trends.
-- sklearn: For encoding and normalization of features if needed.
+- **pandas**
+- **matplotlib**
+- **seaborn**
+- **sklearn**
 ---
