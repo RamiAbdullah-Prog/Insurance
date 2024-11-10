@@ -4,7 +4,7 @@
 
 ---
 
-![Project Overview](insurance_data_analysis_Image.jpg)
+![Project Overview]()
 
 
 ### **Project Description:**
